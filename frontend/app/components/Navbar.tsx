@@ -7,10 +7,10 @@ export default function Navbar() {
   const [cartItems] = useState(3); // Example cart item count
 
   const navigation = [
-    { name: 'Home', href: '#' },
-    { name: 'Products', href: '#' },
-    { name: 'About', href: '#' },
-    { name: 'Contact', href: '#' },
+    { name: 'Home', href: '/' },
+    { name: 'Products', href: '/products' },
+    { name: 'About', href: '/about' },
+    { name: 'Contact', href: '/contact' },
   ];
 
   return (

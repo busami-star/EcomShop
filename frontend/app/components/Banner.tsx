@@ -1,6 +1,6 @@
 "use client"
 import { useState, useEffect } from "react"
-import { XIcon, ArrowRight, Bell, Timer, Gift, Truck, CreditCard } from "lucide-react"
+import { XIcon, ArrowRight, Timer, Gift, Truck, CreditCard } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 const Banner = () => {

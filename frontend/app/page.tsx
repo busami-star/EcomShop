@@ -1,9 +1,9 @@
 import React from 'react'
-import Navbar from "./components/Navbar/Navbar"
-import Header from './components/Header/Header'
-import Hero from "./components/Hero/Hero"
-import Footer from "./components/Footer/Footer"
-import Banner from "./components/Banner/Banner"
+import Navbar from "./components/Navbar"
+import Header from './components/Header'
+import Hero from "./components/Hero"
+import Footer from "./components/Footer"
+import Banner from "./components/Banner"
 
 const page = () => {
   return (

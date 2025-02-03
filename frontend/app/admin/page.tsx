@@ -32,7 +32,7 @@ import {
   Pie, 
   Cell 
 } from 'recharts';
-import RecentOrders from '../components/RecentOrders/RecentOrders';
+import RecentOrders from '../components/RecentOrders';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 import { Separator } from '@/components/ui/separator';
 
