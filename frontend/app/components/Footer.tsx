@@ -1,7 +1,6 @@
 import FooterBottomBar from "./FooterBottomBar"
 import FooterNewsletter from "./FooterNewsletter"
 import FooterCompanyInfo from "./FooterCompanyInfo"
-import FooterTrustBadges from "./FooterTrustBadges"
 import FooterQuickLinks from "./FooterQuickLinks"
 import FooterCustomerService from "./FooterCustomerService"
 import FooterDownload from "./FooterDownload"
@@ -18,7 +17,6 @@ const Footer = () => {
           <FooterQuickLinks />
           <FooterCustomerService />
           <FooterDownload />
-          <FooterTrustBadges />
           <FooterBottomBar />
           </div>
       </div>
