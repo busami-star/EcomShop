@@ -156,7 +156,7 @@ const AllProductsPage: React.FC = () => {
   };
 
   return (
-    <div className="flex min-h-screen bg-gray-50">
+    <div className="flex min-h-screen mt-1 bg-gray-50">
       {/* Sidebar Navigation */}
       <div className="w-64 bg-white shadow-md p-4 border-r">
         <div className="mb-8">
